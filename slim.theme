@@ -1,0 +1,42 @@
+# Liquid Theme for SLiM by smfliss
+#  _    _           _    _ 
+# | |  (_)__ _ _  _(_)__| |
+# | |__| / _` | || | / _` |
+# |____|_\__, |\_,_|_\__,_|
+#           |_|            
+
+#
+# Broadcast
+#
+msg_color               #f4f4f4
+msg_font                Hack:size=18:bold:dpi=75
+msg_x                   50%
+msg_y                   30%
+username_msg            
+password_msg 
+
+#
+# Session Name
+#
+session_color               #57b846
+session_font                Hack:size=16:bold:dpi=75
+session_x                   50%
+session_y                   50%
+
+#
+# valid values: stretch, tile
+#
+background_style        stretch
+background_color        #131313
+
+#
+# Input controls
+#
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            848
+input_name_y            347
+input_pass_x            848
+input_pass_y            398
+input_font              Hack:size=14:dpi=75
+input_color             #131313           
