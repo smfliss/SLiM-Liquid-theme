@@ -15,3 +15,5 @@ Change the theme in the SLiM configuration file (file path`/etc/slim.conf`):
 
     current_theme       liquid
 Thank you for choosing my design
+# Screenshot
+![](Screenshot.png)
